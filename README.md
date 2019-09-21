@@ -18,6 +18,7 @@ Locks are an ancient technology that have maintained relevance in society throug
 | Variants | There are a variety of lock styles and the introductory intention of this course only covers one style in depth. Further research may be conducted on overcoming other locks. |
 
 ### Additional Descriptions
+|   |   | 
 |------------|----------|
 |Assignment Description | This assignment is meant to be a hands-on example of lockpicking as a means to overcoming physical security. |
 |Structure Description | The assignment is structured as a high-level step-by-step where the student will physically overcome simple padlocks and gain an appreciate for the importance of physical security. |
