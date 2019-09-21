@@ -18,7 +18,7 @@ Locks are an ancient technology that have maintained relevance in society throug
 | Variants | There are a variety of lock styles and the introductory intention of this course only covers one style in depth. Further research may be conducted on overcoming other locks. |
 
 ### Additional Descriptions
-|   |   | 
+|   |   |
 |------------|----------|
 |Assignment Description | This assignment is meant to be a hands-on example of lockpicking as a means to overcoming physical security. |
 |Structure Description | The assignment is structured as a high-level step-by-step where the student will physically overcome simple padlocks and gain an appreciate for the importance of physical security. |
@@ -72,7 +72,7 @@ There are three recommendations for locks that fit within the specified scope of
 6.	Test different picks and torque wrenches in the locks to feel how different pick styles effect the pins.
 
 ## Check on learning file
-A check on learning definition matching activity is available.
+A check on learning definition matching activity is available in the GitHub [repository](https://github.com/UHMC/nifty-lockpicking).
 
 ## Model grading criteria
 Upon successful completion of this assignment, students should be able to identify, based on description, common locks implemented as part of physical security and a strategy utilized to overcome locks as part of physical security. Given the appropriate tools (lockpick set), the student should be able to pick the clear training lock and the SEPOX lock each within 45 seconds. The Master Lock 140D may prove more challenging and should be picked within 5 minutes.
